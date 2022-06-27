@@ -1,0 +1,23 @@
+<svg width="111" height="111" viewBox="0 0 111 111" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="111" height="111" rx="5" fill="#6ABC45"/>
+<path d="M55 66C47.7406 66 41.8571 60.1805 41.8571 53C41.8571 45.8195 47.7406 40 55 40C62.2594 40 68.1429 45.8195 68.1429 53C68.1429 60.1805 62.2594 66 55 66ZM45.1634 69.3109L50.0714 88.75L53.3571 74.9375L50.0714 69.25H59.9286L56.6429 74.9375L59.9286 88.75L64.8366 69.3109C72.1576 69.6563 78 75.5773 78 82.9V87.125C78 89.8164 75.7924 92 73.0714 92H36.9286C34.2076 92 32 89.8164 32 87.125V82.9C32 75.5773 37.8424 69.6563 45.1634 69.3109V69.3109Z" fill="white"/>
+<path d="M79 56C79 49.6348 76.5241 43.5303 72.117 39.0294C67.7099 34.5286 61.7326 32 55.5 32C49.2674 32 43.2901 34.5286 38.883 39.0294C34.4759 43.5303 32 49.6348 32 56" stroke="white" stroke-width="2"/>
+<path d="M78 56H87" stroke="white" stroke-width="2"/>
+<circle cx="87" cy="56" r="3" fill="white"/>
+<path d="M72.104 39.5549L78.5191 33.2425" stroke="white" stroke-width="2"/>
+<circle cx="78.5194" cy="33.2425" r="3" transform="rotate(-44.5377 78.5194 33.2425)" fill="white"/>
+<path d="M46.5259 33.9194L42.0889 26.0891" stroke="white" stroke-width="2"/>
+<circle cx="42.0891" cy="26.0891" r="3" transform="rotate(-119.538 42.0891 26.0891)" fill="white"/>
+<path d="M55 31L55 22" stroke="white" stroke-width="2"/>
+<circle cx="55" cy="22" r="3" transform="rotate(-90 55 22)" fill="white"/>
+<path d="M33 56L24 56" stroke="white" stroke-width="2"/>
+<circle cx="24" cy="56" r="3" transform="rotate(-180 24 56)" fill="white"/>
+<path d="M33.2476 47.2927L24.9083 43.908" stroke="white" stroke-width="2"/>
+<circle cx="24.9081" cy="43.908" r="3" transform="rotate(-157.909 24.9081 43.908)" fill="white"/>
+<path d="M77.5 48.0362L85.2942 43.5362" stroke="white" stroke-width="2"/>
+<circle cx="85.2944" cy="43.5362" r="3" transform="rotate(-30 85.2944 43.5362)" fill="white"/>
+<path d="M64.7607 33.2173L68.2811 24.9344" stroke="white" stroke-width="2"/>
+<circle cx="68.2811" cy="24.9344" r="3" transform="rotate(-66.9738 68.2811 24.9344)" fill="white"/>
+<path d="M38.3008 38.7555L31.2112 33.2113" stroke="white" stroke-width="2"/>
+<circle cx="31.211" cy="33.2113" r="3" transform="rotate(-141.974 31.211 33.2113)" fill="white"/>
+</svg>
